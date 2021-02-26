@@ -1,3 +1,3 @@
 # Redux Exercise
 
-# https://mixed-clocks.surge.sh
+# https://holistic-chair.surge.sh
