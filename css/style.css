@@ -34,10 +34,12 @@ input {
 #dec {
   width: 40px;
   height: 40px;
+  border-radius: 50%;
 }
 
 button {
   width: 115px;
+  font-family: "Inter", sans-serif;
   font-size: 18px;
   text-transform: uppercase;
   text-decoration: none;
